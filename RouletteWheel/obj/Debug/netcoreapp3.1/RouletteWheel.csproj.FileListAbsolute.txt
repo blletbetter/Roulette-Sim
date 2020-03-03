@@ -1,0 +1,11 @@
+C:\Users\bllet\OneDrive\Desktop\MSSA\RouletteWheel\bin\Debug\netcoreapp3.1\RouletteWheel.exe
+C:\Users\bllet\OneDrive\Desktop\MSSA\RouletteWheel\bin\Debug\netcoreapp3.1\RouletteWheel.deps.json
+C:\Users\bllet\OneDrive\Desktop\MSSA\RouletteWheel\bin\Debug\netcoreapp3.1\RouletteWheel.runtimeconfig.json
+C:\Users\bllet\OneDrive\Desktop\MSSA\RouletteWheel\bin\Debug\netcoreapp3.1\RouletteWheel.runtimeconfig.dev.json
+C:\Users\bllet\OneDrive\Desktop\MSSA\RouletteWheel\bin\Debug\netcoreapp3.1\RouletteWheel.dll
+C:\Users\bllet\OneDrive\Desktop\MSSA\RouletteWheel\bin\Debug\netcoreapp3.1\RouletteWheel.pdb
+C:\Users\bllet\OneDrive\Desktop\MSSA\RouletteWheel\obj\Debug\netcoreapp3.1\RouletteWheel.csprojAssemblyReference.cache
+C:\Users\bllet\OneDrive\Desktop\MSSA\RouletteWheel\obj\Debug\netcoreapp3.1\RouletteWheel.AssemblyInfoInputs.cache
+C:\Users\bllet\OneDrive\Desktop\MSSA\RouletteWheel\obj\Debug\netcoreapp3.1\RouletteWheel.AssemblyInfo.cs
+C:\Users\bllet\OneDrive\Desktop\MSSA\RouletteWheel\obj\Debug\netcoreapp3.1\RouletteWheel.dll
+C:\Users\bllet\OneDrive\Desktop\MSSA\RouletteWheel\obj\Debug\netcoreapp3.1\RouletteWheel.pdb
