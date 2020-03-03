@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\bllet\\OneDrive\\Desktop\\MSSA\\RouletteWheel\\RouletteWheel.csproj": {}
+    "C:\\Users\\bllet\\OneDrive\\Documents\\GitHub\\Roulette-Sim\\RouletteWheel\\RouletteWheel.csproj": {}
   },
   "projects": {
-    "C:\\Users\\bllet\\OneDrive\\Desktop\\MSSA\\RouletteWheel\\RouletteWheel.csproj": {
+    "C:\\Users\\bllet\\OneDrive\\Documents\\GitHub\\Roulette-Sim\\RouletteWheel\\RouletteWheel.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\bllet\\OneDrive\\Desktop\\MSSA\\RouletteWheel\\RouletteWheel.csproj",
+        "projectUniqueName": "C:\\Users\\bllet\\OneDrive\\Documents\\GitHub\\Roulette-Sim\\RouletteWheel\\RouletteWheel.csproj",
         "projectName": "RouletteWheel",
-        "projectPath": "C:\\Users\\bllet\\OneDrive\\Desktop\\MSSA\\RouletteWheel\\RouletteWheel.csproj",
+        "projectPath": "C:\\Users\\bllet\\OneDrive\\Documents\\GitHub\\Roulette-Sim\\RouletteWheel\\RouletteWheel.csproj",
         "packagesPath": "C:\\Users\\bllet\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\bllet\\OneDrive\\Desktop\\MSSA\\RouletteWheel\\obj\\",
+        "outputPath": "C:\\Users\\bllet\\OneDrive\\Documents\\GitHub\\Roulette-Sim\\RouletteWheel\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\bllet\\AppData\\Roaming\\NuGet\\NuGet.Config",
